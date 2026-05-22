@@ -1,0 +1,6 @@
+{
+  "name": "Vibe Wallpaper Generator",
+  "description": "Generate and remix phone wallpapers based on your current aesthetic and vibe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
